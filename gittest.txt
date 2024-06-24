@@ -1,2 +1,2 @@
-test124conflict
+test124newname
 Git123
