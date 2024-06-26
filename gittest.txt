@@ -1,8 +1,2 @@
-test124newname
-<<<<<<< HEAD
-Git123456789123abc
-
-=======
-Git123456789aâ
-git test
->>>>>>> 828cf829260a627d09324ce80a0d8f52d5b96307
+test124  
+Test1345
